@@ -1,0 +1,5 @@
+Step 1: Create a feature branch
+Step 2: Make a change
+Step 3: Commit the change
+Step 4: Push the branch
+Step 5: Create a Pull Request
